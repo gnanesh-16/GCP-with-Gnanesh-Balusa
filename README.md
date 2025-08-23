@@ -16,11 +16,9 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome I'm Gnanesh Balusa Data Scientist ML Data Associate 2 @Amazon
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Welcome to the 2025 GCP (Google-cloud-practioner) curated notes ! Here you'll get an overview of all the GCP core features help you ace your prep, with this documentation.
 
 ### Jump right in
 
