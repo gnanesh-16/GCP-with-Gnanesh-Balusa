@@ -1,7 +1,9 @@
-
 # Welcome I'm Gnanesh Balusa Data Scientist ML Data Associate 2 @Amazon
 
 Welcome to the 2025 GCP (Google-cloud-practioner) curated notes ! Here you'll get an overview of all the GCP core features help you ace your prep, with this documentation.
+
+<img width="1960" height="1960" alt="image" src="https://github.com/user-attachments/assets/365eb1e7-4b7c-4377-b428-dd874abaa5e6" />
+
 
 ### Jump right in
 
