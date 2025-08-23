@@ -1,20 +1,3 @@
----
-icon: hand-wave
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
 
 # Welcome I'm Gnanesh Balusa Data Scientist ML Data Associate 2 @Amazon
 
