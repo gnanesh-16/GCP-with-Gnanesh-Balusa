@@ -20,7 +20,7 @@ layout:
 
 ## Day 1 Notes: Your Journey into GCP & Cloud Computing Begins!
 
-_Welcome to the first day of your Google Cloud Platform journey! These notes summarize the key concepts from the introductory video, perfect for getting a solid foundation. Let's dive in._
+_Welcome to the first day of our Google Cloud Platform journey! These notes summarize the key concepts from what i'd learned so far , perfect for getting a solid foundation. Let's dive in._
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ _Welcome to the first day of your Google Cloud Platform journey! These notes sum
 
 Before the cloud, companies had to buy and manage their own physical servers. This was like owning your own power generator instead of just plugging into the grid. It was expensive, required a lot of maintenance, and often, a lot of the server's power went unused.
 
-**Cloud Computing** flips this model. It's the delivery of computing services—like servers, storage, databases, and software—over the _Internet_. Instead of owning your own computing infrastructure, you can simply access these services from a cloud provider like Google.
+**Cloud Computing** flips this model. It's the delivery of computing services like servers, storage, databases, and software over the _Internet_. Instead of owning your own computing infrastructure, you can simply access these services from a cloud provider like Google.
 
 _**Key takeaway:**_ _Cloud computing is about renting computing power and services instead of buying and managing it all yourself._
 
