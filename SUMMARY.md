@@ -4,4 +4,8 @@
 
 ## Basics
 
-* [Google Cloud DAY-1 (GnaneshBalusa)](basics/google-cloud-day-1-gnaneshbalusa.md)
+* [DAY-1 Mastering How cloud works](basics/day-1-mastering-how-cloud-works.md)
+
+***
+
+* [Day-2](day-2.md)
