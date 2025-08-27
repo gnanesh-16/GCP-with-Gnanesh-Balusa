@@ -8,4 +8,4 @@
 
 ***
 
-* [Day-2](day-2.md)
+* [Day-2  GCP Hierarchy & Avoiding Surprising Costs](day-2-gcp-hierarchy-and-avoiding-surprising-costs.md)
