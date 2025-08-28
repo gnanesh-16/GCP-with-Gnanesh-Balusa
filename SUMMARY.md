@@ -9,3 +9,4 @@
 ***
 
 * [Day-2  GCP Hierarchy & Avoiding Surprising Costs](day-2-gcp-hierarchy-and-avoiding-surprising-costs.md)
+* [Day-3 GCP What's the Deal with Compute Engine?](day-3-gcp-whats-the-deal-with-compute-engine.md)
