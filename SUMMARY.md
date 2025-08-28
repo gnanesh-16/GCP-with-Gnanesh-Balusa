@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome I'm Gnanesh Balusa Data Scientist ML Data Associate 2 @Amazon](README.md)
+* [💬 Community Discussions](DISCUSSIONS.md)
 
 ## Basics
 

@@ -9,3 +9,5 @@ Welcome to the 2025 GCP (Google-cloud-practioner) curated notes ! Here you'll ge
 <figure><img src="https://github.com/user-attachments/assets/365eb1e7-4b7c-4377-b428-dd874abaa5e6" alt=""><figcaption></figcaption></figure>
 
 ### Jump right in [day-1-mastering-how-cloud-works.md](basics/day-1-mastering-how-cloud-works.md "mention")
+
+### 💬 Join our [Community Discussions](DISCUSSIONS.md) - Ask questions, share knowledge, and connect with fellow learners!
