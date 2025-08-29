@@ -16,13 +16,13 @@ layout:
     visible: true
 ---
 
-# Google Cloud DAY-1 (GnaneshBalusa)
+# DAY-1 Mastering How cloud works
 
 ## Day 1 Notes: Your Journey into GCP & Cloud Computing Begins!
 
 _Welcome to the first day of our Google Cloud Platform journey! These notes summarize the key concepts from what i'd learned so far , perfect for getting a solid foundation. Let's dive in._
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

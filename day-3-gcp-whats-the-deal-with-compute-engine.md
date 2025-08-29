@@ -4,7 +4,7 @@
 
 _Alright, welcome to Day 3! Today I'm going to talk about one of the most basic and powerful services in GCP: **Compute Engine**. If you've ever heard of "virtual machines" or "VMs," this is it. Let's break it down in a simple way._
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. What Exactly is Compute Engine?** _Your Server in the Cloud_
 

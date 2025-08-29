@@ -1,8 +1,8 @@
-# Day-2  GCP Hierarchy & Avoiding Surprising Costs
+# Day-2 GCP Hierarchy & Avoiding Surprising Costs
 
 _Welcome back! Today, for Day 2, we're getting into the really important stuff: how to properly structure everything in GCP and, most importantly, how to make sure you don't get any surprise bills. Chalo, let's get started._
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. Why Does This Hierarchy Matter?** _The Plan for Your Cloud Setup_
 
